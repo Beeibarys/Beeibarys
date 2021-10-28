@@ -1,1 +1,1 @@
-lesson-number-one
+dz-by-algoritm
